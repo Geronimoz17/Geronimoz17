@@ -20,10 +20,10 @@
 </div>
         
  # Contactame:
-  - [Mi linkedin](https://www.linkedin.com/in/geronimo-zamora-2a9920242/)
+  - [Mi linkedin](https://www.linkedin.com/in/geronimo-zamora-2a9920242/){:target="_blank" rel="noopener"}
   - Mi mail: geronimo.zamora16@gmail.com
-  - [Mi portafolio](https://portafoliop5.netlify.app)   
+  - [Mi portafolio](https://portafoliop5.netlify.app){:target="_blank" rel="noopener"}
 
  # Mis estadisticas: 
    - [![GitHub Streak](https://streak-stats.demolab.com?user=Geronimoz17&theme=blueberry&hide_border=true&locale=es)](https://git.io/streak-stats)
-   -![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geronimoz17&show_icons=true&theme=radical)
+   - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geronimoz17&show_icons=true&theme=radical)
