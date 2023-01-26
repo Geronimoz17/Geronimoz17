@@ -20,9 +20,9 @@
 </div>
         
  # Contactame:
-  - [Mi linkedin](https://www.linkedin.com/in/geronimo-zamora-2a9920242/){:target="_blank" rel="noopener"}
+  - <a href="https://www.linkedin.com/in/geronimo-zamora-2a9920242/" target="_blank">Mi linkedin</a>
   - Mi mail: geronimo.zamora16@gmail.com
-  - [Mi portafolio](https://portafoliop5.netlify.app){:target="_blank" rel="noopener"}
+  - <a href="portafoliop5.netlify.app" target="_blank">Mi portafolio</a>
 
  # Mis estadisticas: 
    - [![GitHub Streak](https://streak-stats.demolab.com?user=Geronimoz17&theme=blueberry&hide_border=true&locale=es)](https://git.io/streak-stats)
