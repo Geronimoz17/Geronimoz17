@@ -23,9 +23,9 @@
    <h3>Contactame:</h3>
     <p>Mi Email: geronimo.zamora16@gmail.com </p>
     
-  <p>Mi portafolio: <a href="portafoliop5.netlify.app" target="_blank"></a>Portafolio</p>
+  <a href="portafoliop5.netlify.app" target="_blank">Mi portafolio</a>
    
-  <p>Mi linkedin <a href="https://www.linkedin.com/in/geronimo-zamora-2a9920242/" target="_blank"></a>Linkedin</p>
+ <a href="https://www.linkedin.com/in/geronimo-zamora-2a9920242/" target="_blank">Mi linkedin</a>
     
 
     
