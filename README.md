@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <h1>Bienvenido, soy Geronimo Zamora<h1/>
-  <h3>Soy un Full Stack Developer que se egreso del Plataforma 5 Coding Bootcamp en 2022, siempre me gusto el diseño y la edicion por eso tengo favoritismo por la parte del  front-end aun que tambien me gusta lo rompecabezas que es el back.<h3/>
+  <h3>Soy un Full Stack Developer que se egreso del Plataforma 5 Coding Bootcamp en 2022, siempre me gusto el diseño y la edicion por eso tengo favoritismo por la parte del  front-end aun que tambien me gusta lo rompecabezas que es el back.</h3>
 </div>   
 <div  align="left"> 
  <h2 >📚🧰 Lenguajes y Herramientas:</h2>
@@ -19,11 +19,16 @@
  </div>
 </div>
         
- # Contactame:
-  - <a href="https://www.linkedin.com/in/geronimo-zamora-2a9920242/" target="_blank">Mi linkedin</a>
-  - Mi mail: geronimo.zamora16@gmail.com
-  - <a href="portafoliop5.netlify.app" target="_blank">Mi portafolio</a>
+  
+   <h3>Contactame:</h3>
+    <p>Mi Email: geronimo.zamora16@gmail.com </p>
+    
+  <p>Mi portafolio: <a href="portafoliop5.netlify.app" target="_blank"></a>Portafolio</p>
+   
+  <p>Mi linkedin <a href="https://www.linkedin.com/in/geronimo-zamora-2a9920242/" target="_blank"></a>Linkedin</p>
+    
 
+    
  # Mis estadisticas: 
    - [![GitHub Streak](https://streak-stats.demolab.com?user=Geronimoz17&theme=blueberry&hide_border=true&locale=es)](https://git.io/streak-stats)
    - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geronimoz17&show_icons=true&theme=radical)
